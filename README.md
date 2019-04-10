@@ -4,8 +4,8 @@ Real-time face detection and emotion/gender classification using fer2013/IMDB da
 ## Created By:
 
 Universidad de San Buenaventura Cali (LIDIS Team).
-*Andrés Felipe Girón - [anfegiar@gmail.com]
-*Juan Pablo Chacón -   [juanphax7@gmail.com]
+* Andrés Felipe Girón - [anfegiar@gmail.com]
+* Juan Pablo Chacón -   [juanphax7@gmail.com]
 
 ## Training models:
 * IMDB gender classification test accuracy: 96%.
