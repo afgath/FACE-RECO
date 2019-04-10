@@ -1,13 +1,13 @@
 # Face classification and detection [FACE RECO].
 Real-time face detection and emotion/gender classification using fer2013/IMDB datasets with a keras CNN model and openCV Haar Cascades.
 
-#Created By:
+## Created By:
 
 Universidad de San Buenaventura Cali (LIDIS Team).
-Andrés Felipe Girón - [anfegiar@gmail.com]
-Juan Pablo Chacón -   [juanphax7@gmail.com]
+*Andrés Felipe Girón - [anfegiar@gmail.com]
+*Juan Pablo Chacón -   [juanphax7@gmail.com]
 
-##Training models:
+## Training models:
 * IMDB gender classification test accuracy: 96%.
 * fer2013 emotion classification test accuracy: 66%.
 
